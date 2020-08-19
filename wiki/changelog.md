@@ -120,6 +120,11 @@ insert into  pre_common_member(uid, email, username, password, regdate ) values(
 
 参考 https://blog.csdn.net/lih062624/article/details/69388016
 
+
+### 设置最大搜索数
+
+http://www.zb7.com/discuz/dx25/admincp/all/all_search.htm
+
 ### 2019.04.18
   分类：修改用户名
 
